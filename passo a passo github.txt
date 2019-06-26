@@ -1,0 +1,34 @@
+* passo a passo ADD: 
+
+1К git bash na pasta que vai ser dada um up
+2К git init no terminal
+3К git add * , isso vai adicionar todos os arquivos 
+4К git commit -m " escreval algo aqui"
+5К git remote add oringin https://github.com/2017100235/testando.git
+6К git push -u origin master
+7К f5 no github
+
+finish !!!
+
+*passo a passo deletar:
+
+1К git rm --cached <nome.estenчуo>
+2К git commit -m 'excluir tal arquivo'
+3К git status
+4К f5 no github
+
+finish !!! 
+
+* passo a passo para ignorar: 
+
+1К entre na pasta .git
+2К entre na pasta info
+3К abra o arquivo excluir como bloco de notas
+4К escreva o nome e a extensуo do arquivo
+5К salve e feche
+6К git status
+
+
+
+
+
